@@ -19,11 +19,11 @@ Exemplo:
 
 ```
 /modulo-01
-  ├── ex001.html
-  ├── ex002.html
-/modulo-02
-  ├── desafio01.html
-  ├── estilo.css
+  └── exercicios
+        ├── ex001
+        │     └── index.html
+        ├── ex002
+        │     └── index.html
 ```
 
 ## 💻 Tecnologias Utilizadas
