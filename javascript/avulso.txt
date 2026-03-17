@@ -1,0 +1,1 @@
+colocando qualquer coisa apenas para o git reconhecer a pasta /javascript
